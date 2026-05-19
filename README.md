@@ -55,7 +55,7 @@ git clone https://github.com/derupratama/finitebot.git
 ### Masuk folder project
 
 ```bash
-cd bot
+cd finitebot
 ```
 
 ---
