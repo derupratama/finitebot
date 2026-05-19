@@ -92,9 +92,15 @@ pip install -r requirements.txt
 
 ---
 
-## Konfigurasi TOKEN
+## Buat Env
 
 Buat file `.env`
+
+```bash
+cp .env.example .env
+```
+
+## Konfigurasi Env buat Bot Telegram dan masukkan Token
 
 ```env
 TOKEN=ISI_TOKEN_TELEGRAM
