@@ -94,17 +94,12 @@ pip install -r requirements.txt
 
 ## Konfigurasi TOKEN
 
-Copy file `.env.example` menjadi `.env`
-
-```bash
-cp .env.example .env
-```
-
-Lalu isi token Telegram pada file `.env`
+Buat file `.env`
 
 ```env
 TOKEN=ISI_TOKEN_TELEGRAM
 ```
+
 ---
 
 ## Menjalankan Bot
@@ -153,3 +148,4 @@ bot/
 ## Author
 
 Deru Pratama
+Nizam Al- Gifari
