@@ -4,7 +4,7 @@ Project ini merupakan implementasi Deterministic Finite Automata (DFA) pada chat
 
 ## Fitur
 
-Bot memiliki beberapa fitur utama:
+Bot memiliki beberapa fitur utama, berupa:
 
 1. Pembalik String
    - Command:
