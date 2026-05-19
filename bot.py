@@ -149,7 +149,7 @@ STATUS         : ACCEPTED
 MODE GAMBAR
 
 Pilihan:
-1 = Gajah
+1 = Kucing
 2 = Jerapah
 3 = Singa
 
@@ -267,7 +267,7 @@ Mesin kembali ke q0.
 
             user_states[user_id] = "q8"
 
-            photo = open("images/gajah.jpg", "rb")
+            photo = open("images/kucing.png", "rb")
 
             await update.message.reply_photo(
                 photo=photo,
@@ -280,7 +280,7 @@ INPUT:
 {message}
 
 ANDA MEMILIH:
-GAJAH
+KUCING
 
 Mesin kembali ke q0.
 """
