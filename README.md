@@ -47,7 +47,7 @@ State yang digunakan:
 ### Clone repository
 
 ```bash
-git clone URL_REPOSITORY
+git clone https://github.com/derupratama/finitebot.git
 ```
 
 ---
